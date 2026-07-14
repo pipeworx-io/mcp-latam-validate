@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-latam-validate",
+  "version": "0.1.0",
+  "description": "Validate LatAm banking & tax IDs: Mexican CLABE, Brazilian CNPJ/CPF checksums + BrasilAPI company/CEP/bank lookups",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "latam-validate"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-latam-validate"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
