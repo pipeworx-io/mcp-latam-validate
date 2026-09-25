@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/latam-validate",
   "title": "Latam Validate",
-  "description": "Validate LatAm banking & tax IDs: Mexican CLABE, Brazilian CNPJ/CPF checksums + BrasilAPI company/CEP/bank lookups",
-  "version": "0.1.0",
+  "description": "LatAm Validate MCP — validate Latin-American banking and tax identifiers.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/latam-validate",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-latam-validate",
