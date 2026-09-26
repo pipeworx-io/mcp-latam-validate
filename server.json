@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/latam-validate",
   "title": "Latam Validate",
   "description": "LatAm Validate MCP — validate Latin-American banking and tax identifiers.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/latam-validate",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-latam-validate",
