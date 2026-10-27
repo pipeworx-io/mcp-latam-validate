@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-latam-validate",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "LatAm Validate MCP — validate Latin-American banking and tax identifiers.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-825f7ca0b3b323e4848bcbd6159b0f8a6b485cbe044b2c246ceb2b02d8f61efc",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-848c61f2759ca9b560460b6bfdb725f84683660eeee5b7f3497cf48ebefb396f",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
